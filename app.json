@@ -1,0 +1,24 @@
+{
+  "name": "roovku4",
+  "description": "Run roovku4 on Heroku.",
+  "keywords": [
+    "roovku4"
+  ],
+  "env": {
+    "ID": {
+      "description": "UUID",
+      "value": "c140291a-f3c0-4f76-a3a9-1c38c7825656"
+    },
+    "AID": {
+      "description": "AlterID",
+      "value": "64"
+    },
+    "WSPATH": {
+      "description": "WebSocket Path",
+      "value": "/"
+    }
+  },
+  "website": "https://roovku4.com/roovku4/",
+  "repository": "https://github.com/Moutid/roovku4",
+  "stack": "container"
+}
